@@ -1,1 +1,2 @@
-Hey, this file is created to know how git will open vim when no message was given to commit command while committing the changes
+Hey, this file is created to know how git will open vim when no message was given to commit command while committing the changes.
+Checking differences between fast forward and recursive merging
