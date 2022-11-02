@@ -1,0 +1,1 @@
+Hey, this is gitExample.txt file. Created to check something.
