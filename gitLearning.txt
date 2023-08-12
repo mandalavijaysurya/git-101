@@ -3,3 +3,5 @@ Learning git reset command
 
 Im adding tag here and versioning it with v1.0
 
+Im adding new tag and naming this as v2.0
+
