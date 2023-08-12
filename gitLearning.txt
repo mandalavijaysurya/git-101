@@ -1,2 +1,5 @@
 Hey hi, This file is used for git learning. 
 Learning git reset command
+
+Im adding tag here and versioning it with v1.0
+
